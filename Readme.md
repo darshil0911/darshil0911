@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/darshil0911?label=Follow&style=social)](https://github.com/darshil0911/?tab=follow)
 
 ### Little about me:
-- ⚡ A ChemE trying to learn new things and aspiring to suceed(~one learns from his mistakes)!.
+- ⚡ A ChemE trying to learn new things and aspiring to suceed(~one learns from his mistakes)!
 - 💬 Ask me about movies, tv shows, books especially sitcoms and sci-fi,or anything that comes to mind just happy to talk😄.
 - 😄 Pronouns: he/him
 
