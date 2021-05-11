@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=darshil0911.darshil0911)
 
 ### Find me here:
 [![Linkedin: anmol](https://img.shields.io/badge/-darshil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshil-shah-1953b117b/)](https://www.linkedin.com/in/darshil-shah-1953b117b/)
