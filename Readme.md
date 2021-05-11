@@ -4,6 +4,7 @@
 
 ### Find me here:
 [![Linkedin: anmol](https://img.shields.io/badge/-darshil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshil-shah-1953b117b/)](https://www.linkedin.com/in/darshil-shah-1953b117b/)
+[![GitHub followers](https://img.shields.io/github/followers/darshil0911?label=Follow&style=social)](https://github.com/darshil0911/?tab=follow)
 
 - 💬 Ask me about movies, tv shows, books especially sitcoms and sci-fi,or anything that comes to mind just happy to talk😄.
 - 😄 Pronouns: he/him
