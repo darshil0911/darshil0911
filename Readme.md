@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=darshil0911.darshil0911)
 
 ### Find me here:
-[![Linkedin: anmol](https://img.shields.io/badge/-darshil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshil-shah-1953b117b/)](https://www.linkedin.com/in/darshil-shah-1953b117b/)
+[![Linkedin](https://img.shields.io/badge/-Darshil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshil-shah-1953b117b/)](https://www.linkedin.com/in/darshil-shah-1953b117b/)
 [![GitHub followers](https://img.shields.io/github/followers/darshil0911?label=Follow&style=social)](https://github.com/darshil0911/?tab=follow)
 [![Devpost Portfolio](https://img.shields.io/badge/Devpost-Portfolio-blue)](https://devpost.com/darshil0911?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
